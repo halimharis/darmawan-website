@@ -1,5 +1,5 @@
 import ContactDarmawanSection from "./sections/contactDarmawan/ContactDarmawanSection";
-import FaqSection from "./sections/faq/faqSection";
+import FaqSection from "./sections/faq/FaqSection";
 import HeroSection from "./sections/hero/HeroSection";
 
 export default function Contact() {
@@ -11,3 +11,4 @@ export default function Contact() {
     </>
   );
 }
+
